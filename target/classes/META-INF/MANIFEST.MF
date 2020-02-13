@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mySpringBatchApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: IN-ST-027
+Implementation-Vendor-Id: com.inti
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/mySpringBatchApp
+Created-By: Maven Integration for Eclipse
+
